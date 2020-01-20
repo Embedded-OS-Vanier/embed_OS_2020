@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="Masters19024">
+            <file>file:/C:/E/Dev/FreeRTOS/WorkingCopy/FreeRTOS/Demo/PIC24_MPLAB/main.c</file>
+        </group>
+        <group>
+            <file>file:/C:/serge/Vanier/courses/Old_program/247-601-VA_Real%20Time%20Systems%20Programming/student_template_FreeRTOSV8.2.3/PIC24/Source/tasks.c</file>
+            <file>file:/C:/serge/Vanier/courses/Old_program/247-601-VA_Real%20Time%20Systems%20Programming/student_template_FreeRTOSV8.2.3/PIC24/projects/Embedded_OS/vTaskBlink1.c</file>
+            <file>file:/C:/serge/Vanier/courses/Old_program/247-601-VA_Real%20Time%20Systems%20Programming/student_template_FreeRTOSV8.2.3/PIC24/projects/Embedded_OS/vTaskBlink2.c</file>
+            <file>file:/C:/serge/Vanier/courses/Old_program/247-601-VA_Real%20Time%20Systems%20Programming/student_template_FreeRTOSV8.2.3/PIC24/projects/Embedded_OS/common/console.c</file>
+            <file>file:/C:/serge/Vanier/courses/Old_program/247-601-VA_Real%20Time%20Systems%20Programming/student_template_FreeRTOSV8.2.3/PIC24/projects/Embedded_OS/main.c</file>
+            <file>file:/C:/serge/Vanier/courses/Old_program/247-601-VA_Real%20Time%20Systems%20Programming/student_template_FreeRTOSV8.2.3/PIC24/projects/Embedded_OS/include/console.h</file>
+            <file>file:/C:/serge/Vanier/courses/Old_program/247-601-VA_Real%20Time%20Systems%20Programming/student_template_FreeRTOSV8.2.3/PIC24/projects/Embedded_OS/include/i2c1.h</file>
+        </group>
+    </open-files>
+</project-private>
